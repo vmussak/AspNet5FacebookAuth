@@ -1,0 +1,16 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Facebook Authentication"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-FacebookAuthentication-810e51f6-aeb5-4841-9a3d-a972b41a19d7;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  },
+  "Authentication": {
+    "Facebook": {
+      "AppId": "913090452086194",
+      "AppSecret": "4b86ecc76dd475305eaf390f43564b80"
+    }
+  }
+}
